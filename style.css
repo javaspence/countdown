@@ -1,0 +1,25 @@
+h2 {
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap');
+    font-family: 'Inter', Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: #682B8E;
+    text-shadow: 2px 2px #DDB309;
+}
+h1 {
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap');
+    font-family: 'Inter', Helvetica, Arial, sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: #DDB309;
+}
+body {
+    background-color: #9656e3
+}
+h3 {
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap');
+    font-family: 'Inter', Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: #682B8E;
+}
